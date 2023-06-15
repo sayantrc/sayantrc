@@ -1,6 +1,3 @@
-![About Me](https://raw.githubusercontent.com/acolum/acolum/master/bio.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
 <a href="mailto:hello@alyssacolumbus.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
@@ -9,3 +6,5 @@
 <a href="https://twitter.com/alycolumbus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/acolum/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
+
+I am a strong proponent of reproducible methods, open source technologies, and diversity in tech. I am the founder of **[R-Ladies Irvine](https://www.rladiesirvine.org)**, and I'm a member of the **MIT Technology Review** Global Panel.
